@@ -70,6 +70,7 @@ img:nth-last-of-type(1) {
     display: block;
     width: 50%;
   }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -140,4 +141,5 @@ img:nth-last-of-type(1) {
     display: block;
     width: 33.3333%;
   }
+
 }
